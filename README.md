@@ -24,7 +24,7 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 - Clean & prep the data by fixing errors and formatting it properly
 - Organize it for smooth analysis
 - Define KPIs like total sales, profit, and trends
-- Build an interactive Tableau dashboard
+- Build an interactive Excel dashboard
 - Analyze trends and uncover insights
 
 ##Dashboard
