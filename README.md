@@ -43,3 +43,6 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 - The highest number of loan applications came from specific states (6.8K in the top state), showing regional differences in loan demand and financial behavior
 - 36-month loans (28.2K applications) are more popular than 60-month loans (10.3K applications), suggesting borrowers prefer shorter repayment periods
 - Renters (18.4K) apply for loans more frequently than mortgage holders (17.1K) and homeowners (2.8K), possibly due to financial constraints or lack of collateral
+
+##Coclusion
+- This dashboard helped me understand key trends in loan approvals, funding, and risks. I noticed that while most loans get funded, a significant portion still falls into the bad loan category, which could be a risk factor. Borrowers seem to prefer shorter loan terms, and debt consolidation is the most common loan purpose. Interest rates and debt-to-income ratios also play a major role in loan performance. These insights can be useful for making better lending decisions and improving risk management
