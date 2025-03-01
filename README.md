@@ -16,3 +16,6 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 -   How do loan applications vary by employment length, homeownership status, and state?
 -   What percentage of loans are taken for 36 months vs. 60 months?
 -   What proportion of loans are fully paid, charged off, or currently active?
+
+ Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-02-24%20110915.png">View dashboard 1</a>
+ Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-01%20102608.png">View dashboard 2</a>
