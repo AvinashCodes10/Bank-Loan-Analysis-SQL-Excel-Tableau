@@ -44,6 +44,10 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 
 ![Screenshot 2025-03-09 110922](https://github.com/user-attachments/assets/d1093729-44a9-4355-8a7f-88ccc242aaca)
 
+## 🛠 SQL Queries Used  
+The SQL queries used for analyzing the bank loan data are available in the repository.  
+
+ **[View Full SQL Queries]([SQL_Queries.sql](https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/bank_loan_new.sql))**  
 
 ##Project Insights
 - A total of 38.6K loan applications were received, showing a steady month-over-month growth of 6.91%. The highest number of applications peaked at 4.3K in the most recent month
