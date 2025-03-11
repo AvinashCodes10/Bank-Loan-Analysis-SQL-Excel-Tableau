@@ -1,4 +1,4 @@
-# Bank-Loan-Summary-Overview-Dashboard (Interactive  Dashboard created using Excel)
+# Comprehensive Bank Loan Insights Dashboard | Interactive Analysis with Excel, SQL & Tableau
 ## Project Objective
 To analyze bank loan performance, trends, and risk assessment for better decision-making
 
