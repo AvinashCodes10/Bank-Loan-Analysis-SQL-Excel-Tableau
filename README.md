@@ -6,19 +6,23 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 -<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Bank%20Loan.xlsx">Dataset</a>
 
 ## Key KPI Questions
-- What is the total number of loan applications, and how has it changed month-over-month?
-- What percentage of loan applications get funded, and how much is the total funded amount?
-- What is the total amount received from loans, and how does it compare to the funded amount?
--  What percentage of loans are classified as bad loans, and what is their financial impact?
--   What is the average interest rate across different loan categories?
--   How does the Debt-to-Income (DTI) ratio vary among loan types and borrower profiles?
--   What are the most common reasons for loan applications, and how do they impact approval rates?
--   How do loan applications vary by employment length, homeownership status, and state?
--   What percentage of loans are taken for 36 months vs. 60 months?
--   What proportion of loans are fully paid, charged off, or currently active?
+- What percentage of loans are currently active, closed, or defaulted?
+- What is the average loan amount per customer?
+- What percentage of loans are on-time, delayed, or defaulted?
+- Which loan type has the highest default rate?
+- How does the default rate vary across different credit score categories?
+- What is the distribution of loans based on loan type (personal, home, auto, business, etc.)?
+- Which age group or income level has the highest number of loan approvals?
+- How does the approval rate vary by region or city?
+- What is the average interest rate across different loan types?
+- Which loan category generates the highest interest revenue?
+- How does the loan tenure impact the total interest paid?
+- How has the loan disbursement trend changed over the last 6 months or years?
+- Is there a seasonal pattern in loan approvals?
+- What is the trend in default rates over time?
 
- Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-02-24%20110915.png">View dashboard 1</a>
- Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-01%20102608.png">View dashboard 2</a>
+ Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-02-24%20110915.png">View dashboard 1</a>
+ Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-01%20102608.png">View dashboard 2</a>
 
 ##Process
 - Clean & prep the data by fixing errors and formatting it properly
