@@ -21,6 +21,7 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 - Is there a seasonal pattern in loan approvals?
 - What is the trend in default rates over time?
 
+##Bank Loan Analysis Dashboards (Excel & Tableau)
 - Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-02-24%20110915.png">View dashboard 1</a>
 - Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-01%20102608.png">View dashboard 2</a>
 - Tableau Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-09%20110753.png">View dashboard 1</a>
