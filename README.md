@@ -24,7 +24,7 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 - Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-02-24%20110915.png">View dashboard 1</a>
 - Excel Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-01%20102608.png">View dashboard 2</a>
 - Tableau Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-09%20110753.png">View dashboard 1</a>
--  Tableau Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-09%20110922.png">View dashboard 2</a>
+- Tableau Dashboard Interaction<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/Screenshot%202025-03-09%20110922.png">View dashboard 2</a>
  
 
 ##Process
@@ -45,9 +45,12 @@ To analyze bank loan performance, trends, and risk assessment for better decisio
 ![Screenshot 2025-03-09 110922](https://github.com/user-attachments/assets/d1093729-44a9-4355-8a7f-88ccc242aaca)
 
 ## 🛠 SQL Queries Used  
-The SQL queries used for analyzing the bank loan data are available in the repository.  
-
- **[View Full SQL Queries]([SQL_Queries.sql](https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/bank_loan_new.sql))**  
+The SQL queries used for analyzing the bank loan data are available in the repository 
+    
+  - SQL Queries<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/bank_loan_new.sql"> View SQL Queries 1</a>
+      
+  - SQL Queries<a href="https://github.com/AvinashCodes10/Bank-Loan-Summary-Overview-Excel-Project/blob/main/bank_loan_new2.sql"> View SQL Queries 2</a>
+ 
 
 ##Project Insights
 - A total of 38.6K loan applications were received, showing a steady month-over-month growth of 6.91%. The highest number of applications peaked at 4.3K in the most recent month
